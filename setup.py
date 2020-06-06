@@ -21,7 +21,7 @@ setup(
     author_email="support-software@x-net.at",
     packages=find_packages(),
     install_requires=[
-        "Django==2.2.10",
+        "Django==2.2.13",
     ],
     classifiers=[
         "Framework :: Django",
