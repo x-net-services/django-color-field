@@ -16,7 +16,7 @@ setup(
     packages=find_packages(),
     python_requires=">=3.6",
     install_requires=[
-        "Django==2.2.14",
+        "Django>=2.2.17",
     ],
     classifiers=[
         "Framework :: Django",
